@@ -47,3 +47,8 @@ final class MyTest extends PHPUnitBridge
     }
 }
 ```
+
+## External links
+
+> The simplest solution is to not mark classes or methods as final!
+[dock.mockery.io](http://docs.mockery.io/en/latest/reference/final_methods_classes.html)
