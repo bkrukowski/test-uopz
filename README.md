@@ -53,3 +53,7 @@ final class MyTest extends PHPUnitBridge
 > The simplest solution is to not mark classes or methods as final!
 
 [dock.mockery.io](http://docs.mockery.io/en/latest/reference/final_methods_classes.html)
+
+> Please note that final (...) methods cannot be stubbed or mocked.
+
+[phpunit docs](https://phpunit.readthedocs.io/en/8.1/test-doubles.html)
